@@ -1,4 +1,4 @@
-I am Philasande Ngubo, still a student of very high calibre and ethos in Conputer Science
+I am Philasande Ngubo, still a student of very high calibre and ethos in Computer Science
 
 <!---
 Philasande-Ngubo/Philasande-Ngubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
