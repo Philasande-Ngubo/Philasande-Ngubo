@@ -32,7 +32,7 @@ digital solutions. I am an intrinsic learner and always will to go the extra to 
 
 ## ![quote (2)](https://github.com/user-attachments/assets/c05e3937-f726-4a11-98cb-a91bc1490c2c)  Qoute
 
->*“Look at a stone cutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred-and-first blow it will split in two, and I know it was not the last blow >that did it, but all that had gone before.”*<br/>
+>*“Look at a stone cutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred-and-first blow it will split in two, and I know it was not the last blow that did it, but all that had gone before.”*<br/>
 > -Jacob Riss
 
 
