@@ -2,7 +2,7 @@
 **`Digital Carpenter (Software Engineering and Embedded Systems Engineering)`**
 
 I am Philasande Ngubo a final year Computer Science and Computer Engineering Student at the University of Cape Town I pride myself in developing scalabe ,effecient and straight to the pointer 
-digital solutions. I am an intrinsic learner and always will to go the extra to upskill myself in new and unfamiliar technologies.
+digital solutions. I am an intrinsic learner and always willing to go the extra to upskill myself in new and unfamiliar technologies.
 
 
 ## 🛠️ Skills & Technologies
