@@ -1,7 +1,7 @@
 # ![zulu (1)](https://github.com/user-attachments/assets/01dde67d-84c2-44ee-8b02-53e4d1031b0a) Philasande Ngubo
 **`Digital Carpenter (Software Engineering and Embedded Systems Engineering)`**
 
-I am Philasande Ngubo a final year Computer Science and Computer Engineering Student at the University of Cape Town I pride myself in developing scalable ,efficient and straight to the pointer 
+I am Philasande Ngubo a final year Computer Science and Computer Engineering Student at the University of Cape Town I pride myself in developing scalable ,efficient and straight to the point 
 digital solutions. I am an intrinsic learner and always willing to go the extra to upskill myself in new and unfamiliar technologies.
 
 
