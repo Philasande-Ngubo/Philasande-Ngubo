@@ -30,7 +30,7 @@ digital solutions. I am an intrinsic learner and always willing to go the extra 
 - <a href="https://www.linkedin.com/in/philasande-ngubo-534256325/">LinkedIn</a>
 - <a href="https://philasandengubo.co.za/">Philasande Ngubo's personal Website</a>
 
-## ![quote (2)](https://github.com/user-attachments/assets/c05e3937-f726-4a11-98cb-a91bc1490c2c)  Qoute
+## ![quote (2)](https://github.com/user-attachments/assets/c05e3937-f726-4a11-98cb-a91bc1490c2c)  Quote
 
 >*“Look at a stone cutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred-and-first blow it will split in two, and I know it was not the last blow that did it, but all that had gone before.”*<br/>
 > -Jacob Riss
