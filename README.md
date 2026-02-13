@@ -22,9 +22,9 @@ digital solutions. I am an intrinsic learner and I am always willing to go the e
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philasande-Ngubo&layout=compact&theme=radical)
-
-![Philasande's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philasande-Ngubo&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=Philasande-Ngubo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Philasande-Ngubo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Philasande-Ngubo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect with Me
 - <a href="https://www.linkedin.com/in/philasande-ngubo-534256325/">LinkedIn</a>
